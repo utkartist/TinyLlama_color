@@ -8,11 +8,11 @@ In this project, we are making advanced artificial intelligence (AI) tools acces
 
 
 
-Tiny Colors Chat Project
+## Tiny Colors Chat Project
 This repository contains code for training and deploying a compact language model using TinyLlama-1.1B-Chat-v1.0. The model is trained to recognize and generate responses related to color descriptions. The project includes steps for data preparation, model training, and inference.
 
 
-Table of Contents
+## Table of Contents
 Installation
 Usage
 Project Structure
@@ -25,7 +25,7 @@ Installation
 Install the required packages using pip. The main packages needed include accelerate, peft, bitsandbytes, transformers, trl, torch, and datasets.
 
 
-Usage
+### Usage
 1. Clone the Repository
 Clone the repository to your local machine.
 
@@ -56,7 +56,7 @@ Use the trained model to perform inference on new inputs, including exporting th
 
 
 
-Project Structure
+### Project Structure
 data_preparation.py: Script for preparing the dataset.
 model_training.py: Script for training the model.
 inference.py: Script for performing inference using the trained model.
@@ -65,19 +65,19 @@ Data Preparation
 The data is sourced from the "burkelibbey/colors" dataset on Hugging Face. It includes descriptions and corresponding color names. The data is reformatted into a suitable structure for training the model.
 
 
-Model Training
+### Model Training
 The model training process involves setting up the PEFT configuration, defining training arguments, and using the SFTTrainer to fine-tune the model. The model is trained to understand and generate responses related to color descriptions.
 
 
-Inference
+### Inference
 The inference process demonstrates how to use the trained model for generating predictions. It includes steps for exporting the model to ONNX format and using it for real-time inference.
 
 
-Contributing
+### Contributing
 Contributions are welcome! Please fork the repository and create a new branch for your changes. Ensure that any images or data you contribute adhere to the licensing requirements.
 
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ![Screenshot 2024-07-08 235224](https://github.com/utkartist/TinyLlama_color/assets/156819805/f06e0964-961c-401b-b807-2bbafb8a9e87)
