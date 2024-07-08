@@ -50,7 +50,9 @@ Set up the training arguments and configurations, then use the SFTTrainer to fin
 Use the trained model to perform inference on new inputs, including exporting the model to ONNX format and running predictions.
 
 
-![image](https://github.com/utkartist/TinyLlama_color/assets/156819805/902c6c1f-cd1a-4006-93ac-9437625baeed)
+
+![Screenshot 2024-07-08 032214](https://github.com/utkartist/TinyLlama_color/assets/156819805/dc661ae1-e867-4c07-bbe0-626dc73633aa)
+
 
 
 
