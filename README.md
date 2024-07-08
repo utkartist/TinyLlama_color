@@ -12,16 +12,17 @@ In this project, we are making advanced artificial intelligence (AI) tools acces
 This repository contains code for training and deploying a compact language model using TinyLlama-1.1B-Chat-v1.0. The model is trained to recognize and generate responses related to color descriptions. The project includes steps for data preparation, model training, and inference.
 
 
-### Table of Contents
-Installation
-Usage
-Project Structure
-Data Preparation
-Model Training
-Inference
-Contributing
-License
-Installation
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Model Training](#model-training)
+- [Inference](#inference)
+- [Contributing](#contributing)
+- [License](#license)
+
+### Installation
 Install the required packages using pip. The main packages needed include accelerate, peft, bitsandbytes, transformers, trl, torch, and datasets.
 
 
