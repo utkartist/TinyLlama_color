@@ -73,6 +73,10 @@ The model training process involves setting up the PEFT configuration, defining 
 ### Inference
 The inference process demonstrates how to use the trained model for generating predictions. It includes steps for exporting the model to ONNX format and using it for real-time inference.
 
+![Screenshot 2024-07-08 235224](https://github.com/utkartist/TinyLlama_color/assets/156819805/f06e0964-961c-401b-b807-2bbafb8a9e87)
+
+
+
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a new branch for your changes. Ensure that any images or data you contribute adhere to the licensing requirements.
@@ -81,7 +85,6 @@ Contributions are welcome! Please fork the repository and create a new branch fo
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-![Screenshot 2024-07-08 235224](https://github.com/utkartist/TinyLlama_color/assets/156819805/f06e0964-961c-401b-b807-2bbafb8a9e87)
 
 
 
